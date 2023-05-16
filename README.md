@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alifazl3
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning react
 - 📫 How to reach me : fazlolahiali@gmail.com
 
 <!---
